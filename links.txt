@@ -1,0 +1,6 @@
+Primeiros passos com AJAX
+https://developer.mozilla.org/pt-BR/docs/AJAX/Getting_Started
+
+
+Usando XMLHttpRequest
+https://developer.mozilla.org/pt-BR/docs/Web/API/XMLHttpRequest/Usando_XMLHttpRequest
