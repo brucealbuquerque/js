@@ -4,3 +4,12 @@ https://developer.mozilla.org/pt-BR/docs/AJAX/Getting_Started
 
 Usando XMLHttpRequest
 https://developer.mozilla.org/pt-BR/docs/Web/API/XMLHttpRequest/Usando_XMLHttpRequest
+
+
+Get Started with the PageSpeed Insights API
+https://developers.google.com/speed/docs/insights/v2/getting-started?hl=pt-BR
+
+
+
+Write Your First Client Application
+https://developers.google.com/speed/docs/insights/v2/first-app
